@@ -4,10 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu Exemplo</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
-
+    <title>Menu Exemplo</title>
 </head>
 
 <body>
@@ -15,7 +14,7 @@
     <!-- Header com Menu -->
     <header>
         <nav>
-            <a href="#colaboradores">Colaboradores</a>
+            <a href="pages/colaboradores.php">Colaboradores</a>
             <div class="menu-dropdown">
                 <a href="#">Estoques</a>
                 <div class="dropdown-content">
@@ -40,7 +39,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Inventário - Todos os direitos reservados.</p>
+        <p>&copy; 2025 SaúdeTracker - Todos os direitos reservados.</p>
     </footer>
 
 </body>
