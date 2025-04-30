@@ -4,7 +4,7 @@
         "tipo": "problema",
         "titulo": "Computador da Ana Luisa Fumagalli",
         "texto": "Dobradi\u00e7a danificada, antiga maquina da colaborada Erica Almeida alocada para Ana ",
-        "resolvido": false,
+        "resolvido": true,
         "data_hora": "2025-04-24 09:39:32"
     },
     {
@@ -12,7 +12,7 @@
         "tipo": "problema",
         "titulo": "Fabricio Baastista Florentino",
         "texto": "O colaborador Fabr\u00edcio Baastista Florentino derramou ch\u00e1 acidentalmente sobre o notebook e o teclado port\u00e1til. Para que ele possa continuar suas atividades, foi entregue o notebook e o kit de teclado e mouse da ex-colaboradora Beatriz Chaves.",
-        "resolvido": false,
+        "resolvido": true,
         "data_hora": "2025-04-25 09:45:06"
     },
     {
@@ -20,7 +20,8 @@
         "tipo": "problema",
         "titulo": "Deise Leite",
         "texto": "Computador novo da Deise Leite ainda n\u00e3o tem Termo de Entrega",
-        "data_hora": "2025-04-25 10:22:44"
+        "data_hora": "2025-04-25 10:22:44",
+        "resolvido": true
     },
     {
         "id": 1745870467,
